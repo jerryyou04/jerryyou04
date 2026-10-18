@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Jerry You
+
+SWE Intern @ Clio · CS @ University of Guelph
+
+### PCTracker
+PC hardware price tracking and historical pricing platform.  
+[pctracker.ca](https://pctracker.ca)
+
+### GeoTuring
+Real-time human vs AI social deduction game.  
+[geoturing.com](https://geoturing.com)
+
+[jerryyou.com](https://jerryyou.com) · [LinkedIn](https://www.linkedin.com/in/jerryyou04/)
