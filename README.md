@@ -1,30 +1,9 @@
-# Jerry You
+### Jerry You
 
-Software Engineer Intern @ Clio · Computer Science @ University of Guelph
+SWE Intern @ Clio · CS @ University of Guelph<br>
+[jerryyou.com](https://jerryyou.com) · [LinkedIn](https://www.linkedin.com/in/jerryyou04/)
 
-[Portfolio ↗](https://jerryyou.com) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/jerryyou04/)
+#### Featured projects
 
-## Selected projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://pctracker.ca">
-        <img src="assets/pctracker.png" alt="PCTracker build planner with component pricing and price history" width="100%">
-      </a>
-      <h3>PCTracker</h3>
-      <p>Track PC hardware prices, compare historical pricing, and plan your next build.</p>
-      <p><sub>Python · Django · PostgreSQL · eBay API</sub></p>
-      <p><a href="https://pctracker.ca">Explore PCTracker ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://geoturing.com">
-        <img src="assets/geoturing.png" alt="GeoTuring chat, opponent identity reveal, and location guessing" width="100%">
-      </a>
-      <h3>GeoTuring</h3>
-      <p>Chat with a human or AI, then guess your opponent's identity and location or model family.</p>
-      <p><sub>TypeScript · React · Node.js · Socket.IO</sub></p>
-      <p><a href="https://geoturing.com">Play GeoTuring ↗</a></p>
-    </td>
-  </tr>
-</table>
+**PCTracker** · PC hardware price tracking and historical pricing platform. · [pctracker.ca](https://pctracker.ca)<br>
+**GeoTuring** · Real-time human vs AI social deduction game. · [geoturing.com](https://geoturing.com)
