@@ -1,29 +1,30 @@
-## Hi there 👋
-
-<!--
-**jerryyou04/jerryyou04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Jerry You
 
-SWE Intern @ Clio · CS @ University of Guelph
+Software Engineer Intern @ Clio · Computer Science @ University of Guelph
 
-### PCTracker
-PC hardware price tracking and historical pricing platform.  
-[pctracker.ca](https://pctracker.ca)
+[Portfolio ↗](https://jerryyou.com) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/jerryyou04/)
 
-### GeoTuring
-Real-time human vs AI social deduction game.  
-[geoturing.com](https://geoturing.com)
+## Selected projects
 
-[jerryyou.com](https://jerryyou.com) · [LinkedIn](https://www.linkedin.com/in/jerryyou04/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pctracker.ca">
+        <img src="assets/pctracker.png" alt="PCTracker build planner with component pricing and price history" width="100%">
+      </a>
+      <h3>PCTracker</h3>
+      <p>Track PC hardware prices, compare historical pricing, and plan your next build.</p>
+      <p><sub>Python · Django · PostgreSQL · eBay API</sub></p>
+      <p><a href="https://pctracker.ca">Explore PCTracker ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://geoturing.com">
+        <img src="assets/geoturing.png" alt="GeoTuring chat, opponent identity reveal, and location guessing" width="100%">
+      </a>
+      <h3>GeoTuring</h3>
+      <p>Chat with a human or AI, then guess your opponent's identity and location or model family.</p>
+      <p><sub>TypeScript · React · Node.js · Socket.IO</sub></p>
+      <p><a href="https://geoturing.com">Play GeoTuring ↗</a></p>
+    </td>
+  </tr>
+</table>
